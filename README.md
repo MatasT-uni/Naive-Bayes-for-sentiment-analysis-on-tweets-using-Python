@@ -1,6 +1,6 @@
 **README:**
 
-# SIIT_NLP_Assignment_2_Naive_Bayes
+# NLP_Assignment_2_Naive_Bayes
 
 ## Project Overview
 
